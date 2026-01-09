@@ -4,6 +4,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Durumyisking)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durumyisking&layout=compact)
+[![Durumyisking's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Durumyisking)](https://github.com/Durumyisking/github-readme-stats-fast)
 
 <!--
 **Durumyisking/Durumyisking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
